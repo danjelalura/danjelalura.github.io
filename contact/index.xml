@@ -5,10 +5,6 @@
     <link>https://danjelalura.github.io/contact/</link>
     <description>Recent content in Get in touch on Danjela Lura</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://danjelalura.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://danjelalura.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
