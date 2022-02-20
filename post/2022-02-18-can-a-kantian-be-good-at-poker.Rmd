@@ -1,0 +1,35 @@
+---
+title: My views on Kant and Poker
+output: html_document
+author: Danjela Lura
+date: '2022-02-19'
+slug: ethics-1
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Philosophy of Ethics
+tags: ["philosophy", "ethics"]
+
+---
+> Can a Kantian be a good poker player (or good at poker) if one must lie to win?
+<!--more-->
+
+### Can a Kantian be a good poker player if one must lie to win?
+
+
+The immediate answer to this question would be: “No, because lying cannot be universalized”.
+
+However, in order to understand if a Kantian would be a good poker player or not, it is necessary to give a more concise insight into Kant’s theory of ethics. The Kantian ethics builds its foundation upon two versions of the same basic idea: “Act only according to that maxim by which you can at the same time will that it should become a universal law” and “Act so that you treat humanity, whether in your own person or in that of another, always as an end and never as a means only”. Determining whether these two formulations are indeed equivalent is beyond the scope of this essay, so we will assume that a good Kantian would consider them corresponding. 
+
+Kant considered human beings who are capable of reason, the embodiment of these two equivalent principles and all moral law in general. According to him, morality wouldn’t be possible without the existence of rational beings. The value of these rational agents/beings is beyond all price as they are capable of making decisions and setting their own goals. Treating them as ends, means respecting their rationality. It is important to note that according to Kant’s theory of retributivism, rational agents choose their ends through the endeavors they undertake because all rational agents use reason to guide their actions and aim for the rules that they follow to be universal. In other words, they choose how they will be treated through showing how they treat others. 
+
+The above preface can help understand if a Kantian would be a good poker player or not. As shown in the comic, poker involves bluffing and every person who engages in playing poker seems to apply bluffing as a technique and they also seem to expect other people to bluff, hence Nietzsche requires Kant to make them think he has a bad hand. Nietzsche and the rest of the philosophers Kant is playing with have chosen their ends: whenever you play poker with them, you should bluff. A good Kantian would treat people as ends-in-themselves, so that is why they (the Kantian) would engage in bluffing while playing poker with people who wish for bluffing to be incorporated into the game. From this reasoning, it follows that a Kantian would be good at poker, even if they must lie to win because doing so would treat people as ends-in-themselves. 
+
+As mentioned in the first paragraph of this essay, the formulation of humanity as an end in itself and the universal law formulation are equivalent according to Kant. This  equivalence helps us derive that people choose how they ought to be treated by demonstrating their attitude towards others. 
+
+When playing poker there are no expectations that what your opponent is saying represents their hand and there is no tacitly agreed rule that imposes building trust like other games might have. In closing, I see no reason why a Kantian wouldn’t use bluffing to win a poker game as long as players have mutually accepted bluffing as part of the game and have done so using reason. 
+
+<img alt="Qries" src="https://static.existentialcomics.com/comics/kantPokerNight2.png">
+
+Comic taken from: https://existentialcomics.com/comic/176
