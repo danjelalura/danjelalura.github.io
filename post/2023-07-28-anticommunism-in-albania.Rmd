@@ -1,0 +1,106 @@
+---
+title: Anti-Communism in Eastern Europe, The Case of Albania
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+author: Danjela Lura
+date: '2023-07-28'
+slug: anti-communism-1
+weight: 1
+showonlyimage: false
+draft: false
+categories:
+  - Politics
+tags: ["politics", "History"]
+
+---
+
+> ... Por revolucioni s’ish kala e Rozafatit që duronte ditën ngre e ngre e natën prish.
+<!--more-->
+
+## Introduction
+
+The End of the second world war led to the establishment of the Soviet Union’s satellite system, which somehow included most Eastern European nations. Countries that were not officially considered satellites by the west, were still steady partners of the Soviet Union and more or less satellite states as well. In addition to Stalin’s commitment to vie for control over Eastern Europe, these nations’ desperate longing to be liberated from Nazism posited fertile ground for the propagation of Communism  (Soviet Satellite States | Schoolshistory.org.uk, n.d.). 
+
+Apace with the rise of communism, an upsurgence of anti-communist revolts was noted.  The first nation wide revolt against communism took place in Hungary in 1956. However, 10 years prior to the Hungarian Revolution, the first attempts to overthrow the established communist regime were ventured by northern Albanian anti-communist armed groups. These attempts were a direct popular backlash against the insane wave of persecution, massive arrests, violation of religious beliefs, and sequestrations of private property committed by the Albanian Marxist-Leninist  government. 
+
+## Anti Communism in Albania 1940 - 1990
+### Before The End of WWII
+The National Front, the first anti-communist Albanian political organization, arranged a decalogue comprised of 10 radical nationalist commandments that emphatically demanded the creation of a democratic and ethnic Albania1. 
+
+By 1943, The British Special Operations Executive made efforts to incite a coalition between The National Front and the National Liberation Movement (LANC, communist forces) so that these two political organizations could work together against the Fascists. They did make an agreement but the agreement was later refuted by Albanian communists who were forced by Yugoslavia to do so. Trying to follow its quest to eradicate both communism and fascism, The National Front was found in a spot where the only salvation they could be provided with were the Nazis who invaded Albania after the defeat of Italy in 1943. Their alliance with the Nazis completely defied their objective to fortify their fight against occupiers (Elsie, Balli Kombëtar: The Ten-Point Programme, n.d.).
+
+After the Albanian National Liberation War came to an end, the communists managed to install a provisional government(1944) led by Enver Hoxha, Secretary-General of the Communist Party of Albania. The Albanian people were promised a general election after the definitive withdrawal of the Germans in order to choose the type of government they wanted (Hodguson, 1945).
+
+Another unsuccessful Albanian anti communist attempt that is important to mention was also the creation of the first Albanian Social Democratic Party (1944) which shared the same ideological basis (Marxism) as communism, but avoided totalitarianism. The most prominent figure of this social-democratic movement was Musine Kokalari. Kokalari was a progressive thinker: she endorsed pluralism, free elections, a free market, and the endowment of good international relations while protecting Albanian’s national identity and ethnic borders. Additionally, her Party’s program highly emphasized the protection of all social classes (Wagner, 2016). 
+She was incarcerated several times throughout 1945, however, this didn’t cessate her efforts in the pursuit of democracy, as during the same month of her imprisonment she decided to become part of another political movement that was aimed at uniting the opposition with the intention of postponing the Elections of December 2, 1945 (musinekokalari.org, 2020). 
+
+The elections were held and the only participant was the communist party which inevitably took over and started its gory actions that were mainly related to the expulsion and execution of its opponents. The Democratic Coalition contacted representatives of British government to require that they authenticate the integrity of the elections and militarily support the opposition, but the British decided to not put their military in jeopardy asserting that the communist government came to power by full will of the Albanian people (Koci, 2017).
+
+### During The Communist Oppression (After WWII)
+#### The Revolt of Postriba 1946- The first anti-communist movement in South Eastern Europe 
+Despite its attempts to completely eradicate its opponents, the communist party hadn’t yet managed to fully exert its control over Northern Albania. Several anti-communist partisan units were still actively operating in the Albanian Alps and by September 1946 they united with the intention of overthrowing of the status quo. Their starting point would be the forcible release of political prisoners.
+
+According to Hamza Kazazi, the son of Jup Kazazi who was an influential figure in the region (North Albania), they had started organizing the revolt since 1945. Nil Meklin, a British colonel who was in charge of the British Military Mission for Northern Albania, had promised Hamza Kazazi’s father Britain’s support in carrying out the uprising. Initially, the revolters had made arrangements to expand the revolt to Northeastern cities and Kosovo, but according to Hamza, Hoxha restricted means of communication through terror which dashed hopes for this uprising to be a nation wide one. Despite the fact that many uncaptured northern unit members were given the death penalty, they decided to initiate the Postriba revolt in September 1946 (Si u organizua kryengritja antikomuniste e Postribës - Rilindja Demokratike, 2020). Normal laborers and citizens decided to join the revolt too. The morning of September 9, a group of 200 people attacked state buildings and military barracks which led to massive executions and imprisonments in the following days (Repishti, 2016). 
+
+Despite its result less termination, Postriba’s uprising is considered to have important geopolitical, political, and social values for the region as it was the first organized anti communist endeavor in South Eastern Europe. In addition to that, it also documented that the communists were exercising criminal political actions (Si u organizua kryengritja antikomuniste e Postribës - Rilindja Demokratike, 2020). 
+
+#### Martyrs and Writers
+
+Prior to the establishment of communism, Albanian priests and members of the church constituted a good share of the intellectual class. They were writers, teachers, critics, and politicians. Despite their devotion to the church, their work revolved mainly around nationalist themes. It’s important to mention that the Albanian Renaissance(19th-20th century) was mainly concerned with the awakening of nationalist feelings, often at the expense of religion. Nevertheless, many religious figures contributed a lot to the renaissance through their patriotic works. 
+
+Over time the legacy of Albanian renaissance figures to preserve the Albanian language was only fortified. A great emphasis was placed on preventing the bastardization of the language, and preserving a flourishing and unconstrained writing style. 
+
+After the deployment of communism, these standards started changing as a strictly soviet way of writing was adapted and imposed upon writers. As Robert Elsie, a well known albanolog, notes, the Albanian literature became a pale reflection of the Soviet Literature, nationalist in form and socialist in content. This caused dissatisfaction among writers who represented some of the most intellectual society members. Writers who openly opposed communism through their writings were soon persecuted either through execution or imprisonment. Their books were strictly banned and labeled “yellow books”. Whoever had the courage to read, hide, or distribute them was persecuted as well. Some Albanian writers' quest to go against the regime through the utilization of their writing skills can be considered an anti communist effort as well (Elsie, Communism And Albanian Writers, n.d.) 
+
+## The Fall of Communism
+
+By 1990, Albanian communism had started to topple. Up to that time, Albania was the most isolated country in the world and communism was still in power even after Hoxha’s death. 
+Numerous isolated skirmishes had been going on between armed forces and the people. In July 1990 the regime suffered a fatal hit because many people decided to take shelter in the embassies. 
+
+Intellectuals were in the vanguard of criticizing the lack of rapid political and economic developments. In a meeting with the first secretary of state, Ramiz Alia, they had even discussed political pluralism, which was later achieved. Ismail Kadare, one of the most prominent Albanian writers, had requested political asylum in France by emphatically accusing the regime of dismissing a historical opportunity for Albania to become a democratic state. 
+
+By November, the first church gathering in 23 years had been held. The economic situation was worse than ever: Albania was slowly approaching collective hunger. 
+*Things were moving.*
+
+The ultimate revolt occurred in December. It started like a student protest over the displeasing living conditions in the dormitories at Tirana University, but later became a revolution that initiated the overthrow of the actual system.The protest had no leading figures, it was a purely unorganized and dynamic student movement (Fevziu, 2013). There are countless speculations around the ignition of the protest. Even though it would be really interesting to analyze them, that is beyond the scope of this paper. 
+
+## My own opinions and views
+
+The Albanian society as I know it today is a confluence of orientalism and occidentalism that is connected to communism through nothing but historical legacy. However, being aware of reasons that lead to the overturn of totalitarian systems is crucial in being able to distinguish between rule of law and totalitarianism.
+
+In my opinion, knowing the political past of a country can be of benefit for its citizens because it makes them more conscious about what they are being imposed and how difficult it is to collapse an oppressive system once it is deployed. 
+
+Also, being knowledgeable about anti communist movements helps bear in mind that more often than not, communism employs oppressive manners of control and not social justice.
+
+Educating people on the importance and true definition of liberty can stop them from joining radical groups that could gain the potential to jeopardize democracy. Education can be conducted through displaying political evidence and making them aware of the fact that anti communist groups are more often than not comprised of simple citizens, and students who don’t particularly seek political power, but better living conditions. In this way it can be understood that anti communism is not all about opposing ideologies; it is about requesting the accomplishment of basic human rights. 
+
+## References
+
+- Elsie, R., 2020. 1959 | Arshi Pipa: Communism And Albanian Writers. [online] Albanianhistory.net. Available at: http://www.albanianhistory.net/1959_Pipa/index.html [Accessed 13 November 2020]. 
+
+- Elsie, R., 2020. 1942 | Balli Kombëtar: The Ten-Point Programme. [online] Albanianhistory.net. Available at: http://www.albanianhistory.net/1942_BalliKombetar/index.html  [Accessed 12 November 2020].
+
+- Fevziu, B., 2013. Dhjetor 1990!. [online]. Available at: https://www.youtube.com/watch?v=kn8wVBuuHW8 [Accessed 18 November 2020].
+
+
+- Hodguson, E., 1945: Report On The Present Administration Of Albania. [online] Albanianhistory.net. Available at: http://www.albanianhistory.net/1945_Hodgson/index.html [Accessed 13 November 2020].
+
+- Koci, D., 2017. Musine Kokalari and the Anticommunist Resistance in 1945-1946. Research Gate,. Available at: https://www.researchgate.net/publication/340444008_Musine_Kokalari_and_the_Anticommunist_Resistance_in_1945-1946 [Accessed 13 November 2020].
+Kokalari, Musine., 1972. Si u formua Partia Social-Demokrate. Edited by Platon Salim Kokalari (Tirana: Naim Frashëri 2000), and reprinted by Novruz Xh. Shehu (Tirana: Geer 2009). Pp. 403-436. Translated from the Albanian by Robert Elsie. [online] Available at: http://www.albanianhistory.net/1972_Kokalari/index.html [Accessed 12 November 2020]
+
+- Musinekokalari.org. 2020. Biography – Musine Kokalari. [online] Available at: https://musinekokalari.org/en/biography/ [Accessed 13 November 2020].
+
+- Muzeuimemories.info. 2014. THE ANTICOMMUNIST RESISTANCE « Muzeu I Memories. [online] Available at: http://muzeuimemories.info/721/  [Accessed 12 November 2020].
+
+- Repishti, S., 2016. Kryengritja E Postribës – Kur Komunistët Hynë Me Ushtri Në Shkodër - Observatori I Kujtesës. [online] Observatori i Kujtesës. Available at: http://www.observatorikujteses.al/kryengritja-e-postribes-kur-komunistet-hyne-me-ushtri-ne-shkoder-ne-1946/  [Accessed 13 November 2020].
+
+- Rilindja Demokratike. 2020. Si U Organizua Kryengritja Antikomuniste E Postribës - Rilindja Demokratike. [online] Available at: https://www.rd.al/2017/09/si-u-organizua-kryengritja-antikomuniste-e-postribes/  [Accessed 13 November 2020].
+
+- Schoolshistory.org.uk. n.d. Soviet Satellite States | Schoolshistory.Org.Uk. [online] Available at: https://schoolshistory.org.uk/topics/world-history/cold-war-1945-1972/soviet-satellite-states/ [Accessed 12 November 2020]
+
+- Wagner, A., 2016. Musine Kokalari Dhe Social Demokracia Ne Shqiperi. Tirane: Friedrich-Ebert-Stiftung. Available at: https://library.fes.de/pdf-files/bueros/albanien/13146.pdf Accessed 13 November 2020].
+
+
+

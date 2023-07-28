@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://danjelalura.github.io/2023/07/28/anti-communism-1/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://danjelalura.github.io/2022/02/19/ethics-1/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,10 +27,25 @@
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danjelalura.github.io/categories/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danjelalura.github.io/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danjelalura.github.io/tags/history/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danjelalura.github.io/categories/politics/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danjelalura.github.io/tags/politics/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danjelalura.github.io/post/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danjelalura.github.io/tags/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danjelalura.github.io/tags/ethics/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
@@ -38,19 +56,7 @@
     <loc>https://danjelalura.github.io/categories/philosophy-of-ethics/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://danjelalura.github.io/post/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://danjelalura.github.io/tags/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://danjelalura.github.io/tags/notions-of-openness/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://danjelalura.github.io/categories/politics/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://danjelalura.github.io/tags/politics/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danjelalura.github.io/tags/guix-data-service/</loc>
