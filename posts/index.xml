@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Danjela Lura</title>
+    <link>http://danjelalura.github.io/posts/</link>
+    <description>Recent content in Posts on Danjela Lura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 15:09:24 +0200</lastBuildDate><atom:link href="http://danjelalura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anti-Communism in Eastern Europe, The Case of Albania</title>
+      <link>http://danjelalura.github.io/posts/anti-communism/</link>
+      <pubDate>Mon, 22 Jul 2024 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/anti-communism/</guid>
+      <description>Introduction The End of the second world war led to the establishment of the Soviet Union’s satellite system, which somehow included most Eastern European nations. Countries that were not officially considered satellites by the west, were still steady partners of the Soviet Union and more or less satellite states as well. In addition to Stalin’s commitment to vie for control over Eastern Europe, these nations’ desperate longing to be liberated from Nazism posited fertile ground for the propagation of Communism (Soviet Satellite States | Schoolshistory.</description>
+    </item>
+    
+    <item>
+      <title>My views on Kant and Poker </title>
+      <link>http://danjelalura.github.io/posts/kant-and-poker/</link>
+      <pubDate>Sun, 19 Nov 2023 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/kant-and-poker/</guid>
+      <description>Can a Kantian be a good poker player if one must lie to win?
+The immediate answer to this question would be: “No, because lying cannot be universalized”.
+However, in order to understand if a Kantian would be a good poker player or not, it is necessary to give a more concise insight into Kant’s theory of ethics. The Kantian ethics builds its foundation upon two versions of the same basic idea: “Act only according to that maxim by which you can at the same time will that it should become a universal law” and “Act so that you treat humanity, whether in your own person or in that of another, always as an end and never as a means only”.</description>
+    </item>
+    
+    <item>
+      <title>Notions of Openness - Open Source Software</title>
+      <link>http://danjelalura.github.io/posts/open-source-software/</link>
+      <pubDate>Thu, 19 Nov 2020 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/open-source-software/</guid>
+      <description>The digital era has provided a diverse set of organizational structures, among which one of the most idiosyncratic ones is the open source software phenomenon. Open Source candidly inverses the conventional notion of property by reconfiguring what it comprises. In the open source domain the definition of property is freed from the idea of exclusion and revolves mainly but not exclusively around software (Weber, 2009).
+An application can be considered open source software if the computer code written for it is freely available for everyone to run, examine, distribute, and improve.</description>
+    </item>
+    
+    <item>
+      <title>Notions of Openness - The Open Society</title>
+      <link>http://danjelalura.github.io/posts/the-open-society/</link>
+      <pubDate>Thu, 19 Nov 2020 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/the-open-society/</guid>
+      <description>The epistemological concept of the open society suggests that the absolutization of knowledge is practically unattainable, therefore power needs to be eminently distributed. Implementing a greatly decentralized governing model, consequently leads to the incorporation of a more experimental approach into politics. This experimental approach is given rise by highly erratic developments which are brought about through legislation (“‘The Open Society’ Revisited | Issue 38 | Philosophy Now”, 2020).
+The fact that no predictions can be made regarding whether the results of legislative acts will be characterized by inconsistencies, further supports the claim that knowledge is an ever-evolving element.</description>
+    </item>
+    
+    <item>
+      <title>Third Outreachy Post</title>
+      <link>http://danjelalura.github.io/posts/outreachy-post-3/</link>
+      <pubDate>Sun, 26 Jul 2020 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/outreachy-post-3/</guid>
+      <description>It’s been a few weeks since I last posted about my internship.
+Just in case you missed my post on the Guix blog, here it is: https://guix.gnu.org/en/blog/2020/improve-internationalization-support-for-the-guix-data-service/.
+Now that only one month is left until my Outreachy internship is completely over, I need to start thinking about the new opportunities that might open up.
+This September, I enter my third year of studies, and most likely I will dedicate myself to school related activities for the following 6-9 months.</description>
+    </item>
+    
+    <item>
+      <title>Second Outreachy Post</title>
+      <link>http://danjelalura.github.io/posts/outreachy-post-2/</link>
+      <pubDate>Sun, 14 Jun 2020 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/outreachy-post-2/</guid>
+      <description>Hi everyone!
+It’s been four weeks since my Outreachy internship with Guix Data Service started and I have to admit that I’ve been struggling. I won’t go into detail about the technical problems that have arised while trying to accomplish my tasks, but I’ll give an overview of how those problems have affected the way I approach my activities.
+I am a person who gets emotionally attached to everything I do, and that has contributed to me being unable to approach problems without getting emotionally involved.</description>
+    </item>
+    
+    <item>
+      <title>First Outreachy Post</title>
+      <link>http://danjelalura.github.io/posts/outreachy-post-1/</link>
+      <pubDate>Wed, 13 May 2020 15:09:24 +0200</pubDate>
+      
+      <guid>http://danjelalura.github.io/posts/outreachy-post-1/</guid>
+      <description>I decided to apply to Outreachy while trying to determine whether Computer Science was the field I really wanted to be studying.
+At that time, I was reading “The Success of Open Source” by Steven Weber, a book that changed my entire outlook on property and made me curious to experience the Free and Open Source realm at first hand. The thing was, I wasn’t confident enough to get started or reach out for help out of the blue, so I kept delaying any disclosure of myself to the outside world for as long as possible.</description>
+    </item>
+    
+  </channel>
+</rss>
